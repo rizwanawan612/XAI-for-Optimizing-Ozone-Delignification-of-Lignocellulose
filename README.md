@@ -1,4 +1,4 @@
-This repo contains codes to our work on modeling XAI approach for Optimizing Ozone Delignification of Lignocellulose.
+This repo contains data and codes to our work on modeling XAI approach for Optimizing Ozone Delignification of Lignocellulose.
 
 Authors:
 
